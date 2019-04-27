@@ -1,4 +1,4 @@
-## Virus-Sample-with-Anti-Virus
+## Virus Sample with Anti-Virus
 This virus and anti-virus is made using scripting language and works similarly like shortcut virus
 This file was made to automate task for my personal use. Later on seeing more computer infected by shortcut virus and seeing it working process, this virus was made that working as similarly as shorcut virus. And anti-vius was made to stop and protect computer from being infected of this both virus.
 
