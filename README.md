@@ -19,7 +19,7 @@ This file was made to automate task for my personal use. Later on seeing more co
 
 ## Virus and Anti-virus Naming detail
 1r2nv2 = ArBn version 2 
-As version 1 was made with more fun like disco led and screen display keep rounding on device insert and shutdown computer in eject which was more trouble making to simple user. So if you are using it then rename the file with the file name inside the code.
+> As version 1 was made with more fun like disco led and screen display keep rounding on device insert and shutdown computer in eject which was more trouble making to simple user. So if you are using it then rename the file with the file name inside the code.
 
 #### Note: This virus was FUD (Fully Undetectable) before and no antivirus was able to detect it but later on it spreaded in many computer and now it is even detected with even Window Defender. But change in file name & manipulation in code can make it FUD again.
 
